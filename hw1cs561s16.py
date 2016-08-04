@@ -396,10 +396,5 @@ else:
     trace_state=open("trace_state","w+")
     game_simulation()
     trace_state.close()
-            
-            
-
-
-
         
             
